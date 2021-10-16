@@ -1,0 +1,19 @@
+.home{
+    position: relative;
+}
+.input-group{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+
+.form-control , .btn {
+    font-size: 20px;
+    border-radius: 50px;
+}
+.input-group .btn{
+    background: tomato;
+}
+.Nav{
+    align-items: center;
+}
